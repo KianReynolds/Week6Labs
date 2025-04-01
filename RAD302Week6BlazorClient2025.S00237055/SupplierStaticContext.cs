@@ -1,4 +1,4 @@
-﻿using Rad302Week6Lab2025.DataModel.S00237055;
+﻿using DataModel;
 using System;
 using System;
 using System.Collections.Generic;
@@ -20,5 +20,8 @@ namespace RAD302Week6BlazorClient2025.S00237055
         }
 
 
+
     }
+
+
 }
