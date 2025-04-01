@@ -11,4 +11,8 @@
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="8.0.13" PrivateAssets="all" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Rad302Week6Lab2025.DataModel.S00237055\Rad302Week6Lab2025.DataModel.S00237055.csproj" />
+  </ItemGroup>
+
 </Project>
